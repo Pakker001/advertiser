@@ -1,12 +1,17 @@
 [
   {
-    "bannerUrl": "https://raw.githubusercontent.com/Pakker001/advertiser/main/4r-ads1.gif",
+    "bannerUrl": "https://raw.githubusercontent.com/Pakker001/advertiser/main/4r-ads2.gif",
     "discordUrl": "https://discord.gg/QzZWUMkM",
     "websiteUrl": "http://dv-ragnarok.com/"
   },
+   {
+    "bannerUrl": "https://raw.githubusercontent.com/Pakker001/advertiser/main/Darkverse_Logo.png",
+    "discordUrl": "https://discord.gg/QzZWUMkM",
+    "websiteUrl": "https://www.facebook.com/darkverseofficial"
+  },
   {
-    "bannerUrl": "https://storage.googleapis.com/4rtools/ragnarestart.gif",
-    "discordUrl": "https://discord.gg/mFWCGEFMax",
-    "websiteUrl": "https://ragnarestart.com/"
+    "bannerUrl": "https://raw.githubusercontent.com/Pakker001/advertiser/main/fbpage.gif",
+    "discordUrl": "https://www.facebook.com/groups/1317983705461787",
+    "websiteUrl": "https://www.facebook.com/darkverseofficial"
   }
 ]
